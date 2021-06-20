@@ -19,4 +19,4 @@
 ![Project screen 2](./src/assets/screen2.png)
 ![Project screen 3](./src/assets/screen3.png)
 
-[Project](https://hov001.github.io/equalizer/)
+[Project](https://hov001.github.io/aim-game/)
